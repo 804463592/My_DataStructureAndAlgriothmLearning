@@ -115,6 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Array.h" />
     <ClInclude Include="Chain.h" />
     <ClInclude Include="LinearList.h" />
     <ClInclude Include="my_review.h" />
